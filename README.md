@@ -2,20 +2,23 @@
 
 A full-stack web application built for sharing and managing content/images in a simple and user-friendly way.
 
+## 🌐 Live Demo
+👉 [Click here to view the project](https://uploadsme.netlify.app/)
+
 ## ✨ Features
-- User authentication
-- Upload and share posts
-- Like and interact with content
-- Responsive UI
-- Fast and modern frontend
+- User authentication  
+- Upload and share posts  
+- Like and interact with content  
+- Responsive UI  
+- Fast and modern frontend  
 
 ## 🛠 Tech Stack
-- React
-- Vite
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
+- React  
+- Vite  
+- Node.js  
+- Express  
+- MongoDB  
+- Tailwind CSS  
 
 ## 📦 Installation
 
